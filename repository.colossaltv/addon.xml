@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.colossaltv" name="COLOSSALTV Repo" version="1.0.0" provider-name="Trime">
+    <extension point="xbmc.addon.repository" name="COLOSSALTV Repository">
+        <info>https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/addons.xml.md5</checksum>
+        <datadir>https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">COLOSSALTV Repository</summary>
+        <description lang="en">Install the COLOSSALTV Wizard and keep it updated automatically.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
