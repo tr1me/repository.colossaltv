@@ -1,5 +1,5 @@
 <addons>
-    <addon id="plugin.program.colossaltv" name="COLOSSALTV Wizard" version="1.4.9" provider-name="Trime">
+    <addon id="plugin.program.colossaltv" name="COLOSSALTV Wizard" version="1.4.9" provider-name="TRIME">
         <extension point="xbmc.python.pluginsource" library="default.py">
             <provides>executable</provides>
         </extension>
