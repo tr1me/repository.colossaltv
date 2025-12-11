@@ -1,4 +1,4 @@
-<addon id="repository.colossaltv" name="COLOSSALTV Repo" version="1.0.0" provider-name="Trime">
+<addon id="repository.colossaltv" name="COLOSSALTV Repo" version="1.0.0" provider-name="TRIME">
   <extension point="xbmc.addon.repository" name="COLOSSALTV Repo">
     <info compressed="false">https://tr1me.github.io/repository.colossaltv/addons.xml</info>
     <checksum>https://tr1me.github.io/repository.colossaltv/addons.xml.md5</checksum>
