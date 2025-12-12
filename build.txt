@@ -1,0 +1,6 @@
+[COLOSSALTV]
+version=1.4.9
+url=https://www.dropbox.com/scl/fi/xpjx1oxld2stqphxg6oft/build.zip?rlkey=6ho7mnzj1c82808ikl7i3z5mv&st=kz7ea7ba&dl=1
+icon=https://tr1me.github.io/repository.colossaltv/resources/media/builds.png
+fanart=https://tr1me.github.io/repository.colossaltv/resources/media/fanart.jpg
+description=Colossal TV Build
